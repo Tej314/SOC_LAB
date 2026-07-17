@@ -11,6 +11,7 @@ Collect enhanced endpoint telemetry using Sysmon
 Configure log forwarding with Splunk Universal Forwarder
 Build a foundation for detection engineering and threat hunting
 ## Lab Architecture
+'''text
 +----------------------+          +----------------------+
 |   Windows Endpoint   |          |    Linux Endpoint    |
 |   Sysmon             |          |    rsyslog           |
